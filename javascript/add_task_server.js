@@ -72,7 +72,7 @@ async function getTasksFromServer() {
           'alert_content',
           'A new task has successfully been created and added to your board.'
         );
-      } else {
+      } else {        
         await setItem('guestTasks', JSON.stringify(allTasks));
         clearAllTaskContainers();
         renderAlert(
