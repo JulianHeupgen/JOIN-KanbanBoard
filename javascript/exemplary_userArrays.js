@@ -47,7 +47,7 @@ let exemplaryUserTasks = [
             }  
         ],              
         current_prio: 'urgent',                                     
-        current_due_date: '2024-01-28',
+        current_due_date: '2024-09-28',
         status: 'toDo'
     },
     {
@@ -83,7 +83,7 @@ let exemplaryUserTasks = [
             }
         ],    
         current_prio: 'urgent', 
-        current_due_date: '2024-01-26',        
+        current_due_date: '2024-09-26',        
         status: 'toDo'
     },
     {
@@ -101,7 +101,7 @@ let exemplaryUserTasks = [
              
         ],    
         current_prio: 'urgent',
-        current_due_date: '2024-02-23',
+        current_due_date: '2024-08-23',
         status: 'awaitFeedback'
     }
 ];

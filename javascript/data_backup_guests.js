@@ -51,7 +51,7 @@ let tasksGuest = [
             }  
         ],              
         current_prio: 'urgent',                                     
-        current_due_date: '2024-01-28',
+        current_due_date: '2024-08-28',
         status: 'toDo'
     },
     {
@@ -87,7 +87,7 @@ let tasksGuest = [
               }
         ],    
         current_prio: 'urgent', 
-        current_due_date: '2024-01-26',        
+        current_due_date: '2024-08-26',        
         status: 'toDo'
     },
     {
@@ -203,7 +203,7 @@ let tasksGuest = [
             }
         ],    
         current_prio: 'low',
-        current_due_date: '2024-01-24',
+        current_due_date: '2024-09-24',
         status: 'inProgress'
     },
     {
@@ -221,7 +221,7 @@ let tasksGuest = [
              
         ],    
         current_prio: 'urgent',
-        current_due_date: '2024-02-23',
+        current_due_date: '2024-09-23',
         status: 'awaitFeedback'
     },
     {
@@ -261,7 +261,7 @@ let tasksGuest = [
             }  
         ],    
         current_prio: 'medium',
-        current_due_date: '2024-01-28',
+        current_due_date: '2024-04-28',
         status: 'done'
     },
     {
@@ -309,7 +309,7 @@ let tasksGuest = [
             }  
         ],    
         current_prio: 'urgent',
-        current_due_date: '2024-02-04',
+        current_due_date: '2024-09-04',
         status: 'inProgress'
     },
     {
@@ -379,7 +379,7 @@ let tasksGuest = [
             } 
         ],    
         current_prio: 'medium',
-        current_due_date: '2024-02-21',
+        current_due_date: '2024-08-21',
         status: 'awaitFeedback'
     },
     {
@@ -433,7 +433,7 @@ let tasksGuest = [
             }  
         ],              
         current_prio: 'low',                                     
-        current_due_date: '2024-03-04',
+        current_due_date: '2024-10-04',
         status: 'toDo'
     },
     {
@@ -491,7 +491,7 @@ let tasksGuest = [
             } 
         ],              
         current_prio: 'low',                                     
-        current_due_date: '2024-04-16',
+        current_due_date: '2024-10-16',
         status: 'awaitFeedback'
     }
 ];
